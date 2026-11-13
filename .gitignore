@@ -1,0 +1,10 @@
+# credentials — never commit
+.env
+.env.local
+.env.*.local
+
+# local run artifacts
+node_modules/
+evidence/raw/
+*.mov
+*.mp4
